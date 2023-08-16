@@ -14,7 +14,7 @@ I'm coding every day because I truly ENJOY it and my goal is to turn my passion 
 - bundle code with **webpack**, manage them with **npm** or create **Docker** images and containers 
 
 
-## Here's the detailed version, if you're interested 👇
+## Here you can read about my journey to tech 👇
   
  https://github.com/cristine-eross/about/tree/main
 
