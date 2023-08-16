@@ -1,9 +1,8 @@
 # Short about me 👇
 
 ### 👋 Hi, I’m Cristine, learning web development. 
-#### I'm coding every day because I truly ENJOY it and aim to GET HIRED as a developer. One day.
-
-What I can do at this point:
+I'm coding every day because I truly ENJOY it and my goal is to turn my passion into a career.
+#### What I can do at this point:
 
 - create and manage **WordPress** websites (Elementor Containers and E-Commerce experience)
 - build and deploy simple websites using **HTML**, **CSS** and **JavaScript**
@@ -17,7 +16,7 @@ What I can do at this point:
 
 ## Here's the detailed version 👇
   
-##### https://github.com/cristine-eross/about/tree/main
+ https://github.com/cristine-eross/about/tree/main
 
 
 
