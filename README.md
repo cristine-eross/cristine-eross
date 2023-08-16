@@ -23,3 +23,6 @@ I'm a <b>classic good girl</b>, who has always been obsessed with school, learni
 <h1>Why❓ 👇</h1>
 <p>Because I would like to <b>get hired as a developer</b> as soon as possible so that my passion and evergrowing skillset could be utilized at a larger scale. I can't afford to spend another 6 years at the university to earn a master's in Computer Science, but I'm happily volunteering to learn anything as an intern that would add value to an existing project. Based on my portfolio I might look like someone with entrepreneurial ambitions, but actually, I'd love to be an employee, because I love working in a group, and <b>I'd rather build something really big with a team than small projects on my own </b>. I also think that both my communication skills and my teaching ambitions could prove handy later on at a growing company.</p>
 
+https://github.com/cristine-eross/devacronymus/blob/main/README.md
+
+
