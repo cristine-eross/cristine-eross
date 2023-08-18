@@ -7,7 +7,7 @@ I'm coding every day because I truly ENJOY it and my goal is to turn my passion 
 - create and manage **WordPress** websites (Elementor Containers and E-Commerce experience)
 - build and deploy simple websites using **HTML**, **CSS** and **JavaScript**
 - develop simple applications using **React** with Vite or CRA (todo app, weather app, etc.)
-- develop full-stack applications using **Next.js** (with database CRUD operations, API fetching)
+- develop full-stack applications using **Next.js** (with database CRUD operations, API fetching, authentication)
 - build simple databases in **MySQL**, **MongoDB** and **Firestore**
 - build, test and deploy simple REST APIs with **Node.js** and **Express**
 - write **documentation** for an application and use basic **GIT** commands
