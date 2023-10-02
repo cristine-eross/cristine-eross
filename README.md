@@ -1,7 +1,7 @@
 # Short about me 👇
 
-### 👋 Hi, I’m Cristine, learning web development. 
-I'm coding every day because I truly ENJOY it and my goal is to turn my passion into a career.
+### 👋 Hi, I’m Cristine, a newcomer to the web dev community, a former teacher. 
+I'm coding every day because I truly enjoy it and my goal is to turn my passion into a career.
 #### What I can do at this point:
 
 - create and manage **WordPress** websites (Elementor Containers and E-Commerce experience)
